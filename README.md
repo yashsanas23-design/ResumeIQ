@@ -4,7 +4,7 @@
 
 ResumeIQ is a web-based resume analysis platform that helps students and job seekers understand how well their resume matches a job description and how they can improve it.
 
-🔗 **Live Demo:** https://resumeiq-5-10.streamlit.app/
+🔗 **Live Demo:** https://yashsanas23-design-resumeiq-app-0lmuhu.streamlit.app/
 
 🔗 **GitHub:** https://github.com/yashsanas23-design/ResumeIQ
 ---
